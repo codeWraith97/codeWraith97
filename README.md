@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1 align="center">Hi, I'm Yevhenii Zhabchenko 👋</h1>
+## Hi there 
+<h1 align="center">Hi, I'm Yevhenii Zhabchenko 😁</h1>
 
 <h3 align="center">Senior Full-Stack Engineer · TypeScript · Node.js · NestJS · React · Next.js · React Native · AWS</h3>
 
